@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8f6f2"/>
+  <text x="320" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#5b4636" font-family="sans-serif">红宝石轴承与防震器（保护摆轴轴尖）</text>
+  <g transform="translate(180,190)">
+    <rect x="-70" y="-24" width="140" height="48" rx="6" fill="#e8dcc0" stroke="#8a7250" stroke-width="2.5"/>
+    <rect x="-16" y="-34" width="32" height="68" rx="4" fill="#c4a675" stroke="#8a7250" stroke-width="2.5"/>
+    <path d="M-16 0 L16 0" stroke="#f8f6f2" stroke-width="3"/>
+    <path d="M0 -46 L0 -34 M0 34 L0 46" stroke="#5b4636" stroke-width="4"/>
+    <text x="0" y="76" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">红宝石轴承（含油孔）</text>
+    <text x="0" y="-58" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">摆轴轴尖（约 φ0.1mm）</text>
+  </g>
+  <g transform="translate(430,190)">
+    <path d="M-80 -40 L80 -40 L80 40 L-80 40 Z" fill="#e8dcc0" stroke="#8a7250" stroke-width="2.5"/>
+    <path d="M-40 -40 L-40 40 M40 -40 L40 40" stroke="#b09a72" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M0 -40 L0 40" stroke="#5b4636" stroke-width="4"/>
+    <path d="M-60 -14 L60 -14" stroke="#4a6a8a" stroke-width="3"/>
+    <path d="M-60 14 L60 14" stroke="#4a6a8a" stroke-width="3"/>
+    <path d="M-30 -40 L-30 -60 L30 -60 L30 -40" fill="none" stroke="#8a7250" stroke-width="2.5"/>
+    <circle cx="0" cy="-60" r="7" fill="#b8452e"/>
+    <text x="0" y="70" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">防震器（弹簧座 + 宝石孔 ± 45° 锥面）</text>
+    <text x="0" y="-78" text-anchor="middle" font-size="12" fill="#b8452e" font-family="sans-serif">受冲击时可微量位移缓冲</text>
+  </g>
+  <text x="320" y="344" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">宝石轴承降低摩擦与磨损；防震器让轴尖受撞击时沿锥面滑移、弹性复位，避免折断</text>
+</svg>

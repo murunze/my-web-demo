@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8f6f2"/>
+  <text x="320" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#5b4636" font-family="sans-serif">机械闹钟机心与闹铃机构</text>
+  <g transform="translate(200,195)">
+    <circle r="86" fill="#e8dcc0" stroke="#8a7250" stroke-width="3"/>
+    <circle r="56" fill="none" stroke="#b09a72" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <circle r="28" fill="none" stroke="#8a7250" stroke-width="2"/>
+    <circle r="7" fill="#5b4636"/>
+    <path d="M0 0 L0 -70" stroke="#5b4636" stroke-width="4" stroke-linecap="round"/>
+    <path d="M0 0 L50 -34" stroke="#8a7250" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="-86" r="8" fill="#b8452e"/>
+    <text x="0" y="-104" text-anchor="middle" font-size="12" fill="#b8452e" font-family="sans-serif">闹针（设定时间）</text>
+    <text x="0" y="112" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">走时轮系 + 时轮 / 闹轮</text>
+  </g>
+  <g transform="translate(410,180)">
+    <circle r="48" fill="#e8dcc0" stroke="#8a7250" stroke-width="2.5"/>
+    <circle r="20" fill="none" stroke="#b09a72" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <text x="0" y="70" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">闹轮（闹时触发）</text>
+  </g>
+  <g transform="translate(540,190)">
+    <path d="M-40 0 q20 -34 40 0" fill="none" stroke="#8a7250" stroke-width="3"/>
+    <path d="M-6 -10 L-6 26 L6 26 L6 -10 Z" fill="#c4a675" stroke="#8a7250" stroke-width="2"/>
+    <circle cx="-6" cy="-14" r="7" fill="#b8452e"/>
+    <text x="0" y="-34" text-anchor="middle" font-size="12" fill="#b8452e" font-family="sans-serif">击铃锤</text>
+    <text x="0" y="52" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">铃 / 蜂鸣片</text>
+  </g>
+  <path d="M410 240 L470 250" stroke="#8a7250" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="320" y="344" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">时轮驱动日历/闹轮，到达设定时刻触发击铃锤敲击铃体发声——走时与闹铃共用一套动力</text>
+</svg>

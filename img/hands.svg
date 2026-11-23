@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8f6f2"/>
+  <text x="320" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#5b4636" font-family="sans-serif">显示系统（大三针）与摩擦分轮机构</text>
+  <g transform="translate(190,195)">
+    <circle r="88" fill="none" stroke="#b09a72" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <circle r="60" fill="#e8dcc0" stroke="#8a7250" stroke-width="2.5"/>
+    <circle r="40" fill="none" stroke="#8a7250" stroke-width="2"/>
+    <circle r="22" fill="none" stroke="#8a7250" stroke-width="2"/>
+    <circle r="6" fill="#5b4636"/>
+    <path d="M0 0 L0 -80" stroke="#5b4636" stroke-width="4" stroke-linecap="round"/>
+    <path d="M0 0 L56 -40" stroke="#8a7250" stroke-width="3" stroke-linecap="round"/>
+    <path d="M0 0 L-30 66" stroke="#b8452e" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="0" y="-92" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">时针</text>
+    <text x="70" y="-46" text-anchor="middle" font-size="12" fill="#8a7250" font-family="sans-serif">分针</text>
+    <text x="-42" y="76" text-anchor="middle" font-size="12" fill="#b8452e" font-family="sans-serif">秒针</text>
+  </g>
+  <text x="190" y="300" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">时轮:分轮:秒轮 = 1:12:720（转速规范）</text>
+  <g transform="translate(450,150)">
+    <circle r="40" fill="#e8dcc0" stroke="#8a7250" stroke-width="2.5"/>
+    <circle r="7" fill="#5b4636"/>
+    <path d="M0 -40 q22 -14 22 -34" fill="none" stroke="#4a6a8a" stroke-width="3"/>
+    <text x="0" y="-84" text-anchor="middle" font-size="12" fill="#4a6a8a" font-family="sans-serif">摩擦簧片</text>
+    <text x="0" y="58" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">分轮（套在中心轮上）</text>
+  </g>
+  <g transform="translate(450,290)">
+    <path d="M-56 0 L56 0" stroke="#8a7250" stroke-width="3"/>
+    <path d="M-40 -14 L-40 14 M0 -14 L0 14 M40 -14 L40 14" stroke="#b8452e" stroke-width="2.5"/>
+    <text x="0" y="34" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">摩擦配合：可滑动又保持传递</text>
+  </g>
+  <text x="320" y="344" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">摩擦分轮让指针可被拨动调时，同时正常走时仍能带动分针——解决「调时 vs 走时」矛盾</text>
+</svg>

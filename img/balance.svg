@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8f6f2"/>
+  <text x="320" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#5b4636" font-family="sans-serif">摆轮游丝系统（振动系统）结构</text>
+  <g transform="translate(240,190)">
+    <circle r="82" fill="none" stroke="#8a7250" stroke-width="9"/>
+    <circle r="72" fill="none" stroke="#b09a72" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <g fill="#5b4636">
+      <circle cx="0" cy="-82" r="5"/><circle cx="58" cy="-58" r="5"/><circle cx="82" cy="0" r="5"/>
+      <circle cx="58" cy="58" r="5"/><circle cx="0" cy="82" r="5"/><circle cx="-58" cy="58" r="5"/>
+      <circle cx="-82" cy="0" r="5"/><circle cx="-58" cy="-58" r="5"/>
+    </g>
+    <path d="M0 0 m0 -46 a46 46 0 1 1 -33 13" fill="none" stroke="#4a6a8a" stroke-width="3.5"/>
+    <path d="M0 0 m0 -36 a36 36 0 1 1 -26 10" fill="none" stroke="#5b7a9a" stroke-width="3"/>
+    <path d="M0 0 m0 -26 a26 26 0 1 1 -19 7" fill="none" stroke="#6a8aaa" stroke-width="2.5"/>
+    <circle r="9" fill="#d9c9a8" stroke="#8a7250" stroke-width="2.5"/>
+    <circle r="4" fill="#5b4636"/>
+    <path d="M0 -46 L-14 -86" stroke="#4a6a8a" stroke-width="2.5"/>
+    <circle cx="-14" cy="-88" r="5" fill="#4a6a8a"/>
+    <text x="-52" y="-88" text-anchor="end" font-size="12" fill="#4a6a8a" font-family="sans-serif">外桩</text>
+  </g>
+  <text x="240" y="300" text-anchor="middle" font-size="13" fill="#5b4636" font-family="sans-serif">摆轮 + 游丝（内桩固定于摆轴）</text>
+  <g transform="translate(500,110)">
+    <rect x="-60" y="-30" width="120" height="60" rx="8" fill="#e8dcc0" stroke="#8a7250" stroke-width="2.5"/>
+    <path d="M-60 0 L60 0" stroke="#8a7250" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M-30 -30 L-30 30 M0 -30 L0 30" stroke="#b8452e" stroke-width="4"/>
+    <text x="0" y="-40" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">快慢针（有卡度）</text>
+  </g>
+  <g transform="translate(500,265)">
+    <circle r="34" fill="#d9c9a8" stroke="#8a7250" stroke-width="2.5"/>
+    <circle cx="14" cy="-16" r="7" fill="#b8452e"/>
+    <circle cx="-16" cy="12" r="7" fill="#4a6a8a"/>
+    <text x="0" y="52" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">无卡度（砝码摆）</text>
+  </g>
+  <text x="320" y="340" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">有卡度：通过移动快慢针夹改变游丝有效长度调校走时｜无卡度：调校摆轮上螺钉/砝码的惯量</text>
+</svg>

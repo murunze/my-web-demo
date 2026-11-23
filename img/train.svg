@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f8f6f2"/>
+  <text x="320" y="32" text-anchor="middle" font-size="19" font-weight="bold" fill="#5b4636" font-family="sans-serif">传动轮系（条盒轮 → 擒纵轮）示意</text>
+  <g stroke="#8a7250" fill="#e8dcc0">
+    <circle cx="90" cy="200" r="60" stroke-width="3"/>
+    <circle cx="205" cy="200" r="44" stroke-width="2.5"/>
+    <circle cx="300" cy="200" r="32" stroke-width="2.5"/>
+    <circle cx="378" cy="200" r="24" stroke-width="2.5"/>
+    <circle cx="446" cy="200" r="17" stroke-width="2.5"/>
+    <circle cx="516" cy="200" r="34" stroke-width="2.5"/>
+  </g>
+  <g fill="#8a7250">
+    <circle cx="90" cy="140" r="4"/><circle cx="150" cy="170" r="4"/><circle cx="150" cy="230" r="4"/><circle cx="90" cy="260" r="4"/><circle cx="30" cy="230" r="4"/><circle cx="30" cy="170" r="4"/><circle cx="90" cy="200" r="8"/>
+  </g>
+  <circle cx="205" cy="200" r="5" fill="#5b4636"/>
+  <circle cx="300" cy="200" r="4" fill="#5b4636"/>
+  <circle cx="378" cy="200" r="3.5" fill="#5b4636"/>
+  <path d="M516 200 m0 -34 l6 14 l15 0 l-12 10 l5 15 l-14 -9 l-14 9 l5 -15 l-12 -10 l15 0 z" fill="#c4a675" stroke="#8a7250" stroke-width="1.5"/>
+  <text x="90" y="288" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">条盒轮</text>
+  <text x="205" y="288" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">二轮(中心轮)</text>
+  <text x="300" y="288" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">三轮</text>
+  <text x="378" y="288" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">四轮(秒轮)</text>
+  <text x="446" y="288" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">擒纵轮</text>
+  <text x="516" y="288" text-anchor="middle" font-size="12" fill="#5b4636" font-family="sans-serif">摆轮</text>
+  <text x="320" y="120" text-anchor="middle" font-size="12" fill="#7a6a52" font-family="sans-serif">齿数逐级递减 → 转速逐级递增（能量逐级传递）</text>
+  <text x="320" y="330" text-anchor="middle" font-size="12" fill="#b8452e" font-family="sans-serif">标准传动比示例：擒纵轮 20 齿，轮系 90:10 推算出秒轮 60 秒/圈</text>
+</svg>
